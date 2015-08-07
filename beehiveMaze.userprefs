@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SpawnDoor.cs">
     <Files>
+      <File FileName="Assets\Scripts\SpawnDoor.cs" Line="17" Column="1" />
       <File FileName="Assets\Scripts\Door.cs" Line="11" Column="3" />
-      <File FileName="Assets\Scripts\SpawnDoor.cs" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\SpawnDoor.cs" Line="13" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
