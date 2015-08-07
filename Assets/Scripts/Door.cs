@@ -2,11 +2,13 @@
 using System.Collections;
 
 public class Door : MonoBehaviour {
-	private Animator anim;
 	public Transform doorFrontPos;
+	private Animator anim;
 	private Vector2 doorFrontVec;
+
 	void Awake()
 	{
+
 		doorFrontVec = new Vector2((doorFrontPos.position.x - transform.position.x),(doorFrontPos.position.z - transform.position.z));
 		anim = GetComponent<Animator>();
 	}
